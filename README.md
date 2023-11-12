@@ -10,9 +10,8 @@ This project is modeled after the Web Dev Simplified YouTube Channel's same proj
 
 ## Preview
 
-[![Calculator Preview](preview-link.jpg)](live-site-link)
+![Calculator](https://github.com/spragginsdesigns/JavaScript-Fancy-Calculator/assets/43624199/35b9eaef-7d8e-4777-8aef-2e3dfcd3f75b)
 
-> Replace `preview-link.jpg` with the link to your project's screenshot and `live-site-link` with the link to the live site if available.
 
 ## Installation
 
