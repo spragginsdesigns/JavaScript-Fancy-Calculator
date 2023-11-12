@@ -43,7 +43,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - Icons provided by [FontAwesome](https://fontawesome.com/).
 - Modeled after Web Dev Simplified's Project Video:
-  [![Web Dev Simplified - JavaScript Calculator Tutorial](http://img.youtube.com/vi/j59qQ7YWLxw/0.jpg)](https://www.youtube.com/watch?v=j59qQ7YWLxw "Web Dev Simplified - JavaScript Calculator Tutorial")
+- [![Web Dev Simplified - JavaScript Calculator Tutorial](http://img.youtube.com/vi/j59qQ7YWLxw/0.jpg)](https://www.youtube.com/watch?v=j59qQ7YWLxw "Web Dev Simplified - JavaScript Calculator Tutorial")
 
 ## Contact
 
