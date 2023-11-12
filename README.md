@@ -18,7 +18,7 @@ This project is modeled after the Web Dev Simplified YouTube Channel's same proj
 To run this calculator locally, follow these steps:
 
 1. Clone the repository:
-   ```sh
+   ```
    git clone https://github.com/spragginsdesigns/JavaScript-Fancy-Calculator.git
    ```
 2. Navigate to the project directory:
