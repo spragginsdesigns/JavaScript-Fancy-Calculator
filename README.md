@@ -52,4 +52,3 @@ For any additional questions or comments, please contact me via [email](mailto:s
 ---
 
 Made with ❤️ by [Austin Spraggins](https://github.com/spragginsdesigns)
-```
